@@ -3,11 +3,13 @@
 A full-stack web application that detects whether a news article is **Fake or Real** using Natural Language Processing (NLP) and Machine Learning.
 
 The system uses a **Support Vector Machine (SVM)** model with **SHAP explainability** to provide transparent and interpretable predictions.
+
+It also improves the overall performance of the system
 ---
 
 ## 🎯 Objective
 
-The primary goal of the project is to demonstrate how NLP, machine learning, and explainable AI (XAI) can be combined to build a practical system for identifying potentially misleading or fabricated news content while providing users with understandable reasoning behind model predictions.
+The primary goal of the project is to demonstrate how NLP, machine learning, and explainable AI (SHAP) can be combined to build a practical system for identifying potentially misleading or fabricated news content while providing users with understandable reasoning behind model predictions.
 
 ---
 
