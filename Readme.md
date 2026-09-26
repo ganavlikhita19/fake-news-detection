@@ -3,8 +3,6 @@
 A full-stack web application that detects whether a news article is **Fake or Real** using Natural Language Processing (NLP) and Machine Learning.
 
 The system uses a **Support Vector Machine (SVM)** model with **SHAP explainability** to provide transparent and interpretable predictions.
-
-It also improves the overall performance of the system
 ---
 
 ## 🎯 Objective
